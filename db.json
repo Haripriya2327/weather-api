@@ -116,8 +116,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -130,8 +130,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -144,8 +144,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -158,8 +158,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 45,
       "snow": 0
     },
     {
@@ -172,8 +172,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -186,8 +186,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 45,
       "snow": 0
     },
     {
@@ -200,8 +200,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 40,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -214,8 +214,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 40,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -228,8 +228,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 10,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -242,8 +242,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 20,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -257,7 +257,7 @@
       "windspeed": 12,
       "humidity": 22,
       "rain": 30,
-      "sunny": 1,
+      "sunny": 40,
       "snow": 0
     },
     {
@@ -270,8 +270,8 @@
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
-      "sunny": 1,
+      "rain": 45,
+      "sunny": 45,
       "snow": 0
     },
     {
@@ -370,7 +370,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 70
     },
     {
       "id": 26,
@@ -384,7 +384,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 90
     },
     {
       "id": 27,
@@ -398,7 +398,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 80
     },
     {
       "id": 28,
@@ -412,7 +412,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 60
     },
     {
       "id": 29,
@@ -426,7 +426,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 70
     },
     {
       "id": 30,
@@ -440,7 +440,7 @@
       "humidity": 22,
       "rain": 30,
       "sunny": 1,
-      "snow": 0
+      "snow": 80
     }
   ],
 
