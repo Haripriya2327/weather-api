@@ -368,7 +368,7 @@
       "maxtemp": 10,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 70
     },
@@ -382,7 +382,7 @@
       "maxtemp": 10,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 90
     },
@@ -396,7 +396,7 @@
       "maxtemp": 10,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 80
     },
@@ -410,7 +410,7 @@
       "maxtemp": 9,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 60
     },
@@ -424,7 +424,7 @@
       "maxtemp": 10,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 70
     },
@@ -438,7 +438,7 @@
       "maxtemp": 10,
       "windspeed": 12,
       "humidity": 22,
-      "rain": 30,
+      "rain": 0,
       "sunny": 1,
       "snow": 80
     }
