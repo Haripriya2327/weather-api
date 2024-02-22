@@ -84,7 +84,7 @@
       "hour": 6,
        "date":"2024-02-23",
       "currenttemp": 20,
-      "mintemp": 12,
+      "mintemp": 10,
       "maxtemp": 24,
       "windspeed": 12,
       "humidity": 22,
